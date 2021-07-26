@@ -15,7 +15,7 @@ import scipy.constants as scc
 import streamlit as st
 
 mpl.rcParams.update({   'figure.figsize': (12, 9),
-                        'text.usetex': True,
+                        'text.usetex': False,
                         'font.family': 'serif',
                         # 'font.serif': 'Georgia',
                         # 'mathtext.fontset': 'cm',
