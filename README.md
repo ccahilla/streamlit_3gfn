@@ -1,3 +1,6 @@
+
+[![DOI](https://zenodo.org/badge/388584835.svg)](https://zenodo.org/badge/latestdoi/388584835)
+
 # streamlit_3gfn
 
 Third generation frequency noise requirements and input optics design
