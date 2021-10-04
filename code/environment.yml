@@ -1,0 +1,20 @@
+name: 3gfn
+channels:
+- gwoptics
+- conda-forge
+dependencies:
+- python=3
+- numpy
+- matplotlib
+- ipython
+- jupyter
+- jupyterlab
+- pykat
+- nds2-client
+- python-nds2-client
+- gpstime
+- pyyaml
+- pip
+- pip:
+    - git+ssh://git@git.ligo.org/gwinc/pygwinc.git
+    - nds2utils
